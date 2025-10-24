@@ -31,7 +31,8 @@ MSP & MSFD Links is implemented as an **interactive web application** using **[S
 - Analysis (spatial overlays and assessment linkages)  
 - Visualization (interactive charts, maps, and tables)  
 
-The tool is released as part of the **Tools4MSP GeoApps** suite and **containerized** (Docker-ready) for reproducible deployment.
+The tool is released as part of the **Tools4MSP GeoApps** suite and **containerized** (Docker-ready) for reproducible deployment:
+https://geoapps.tools4msp.eu/
 
 ---
 
