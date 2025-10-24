@@ -87,3 +87,11 @@ Analysis outputs include interactive charts, maps, and tables, with **full-scree
 
 ---
 
+
+
+## 👥 Contributors
+- Alessandro Mulazzani
+- Stefano Menegon
+- Alessandro Sarretta
+- Luca Fucci
+- Sara Sottoriva
